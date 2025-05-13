@@ -1,0 +1,4 @@
+A inteligência artificial está transformando a forma como processamos informação.
+O uso de embeddings permite realizar buscas contextuais muito mais eficientes.
+Trabalhos acadêmicos exigem correlação entre diversas fontes confiáveis.
+Utilizar PDFs como base para um chatbot pode economizar horas de leitura.
